@@ -15,3 +15,6 @@ The task is to create a flexible and interactive Excel dashboard that allows use
 
 ## Results
 Users can now use the data validation feature to select a specific month, view the budgeted and actual amounts for various line items, and identify variances through conditional formatting. The inclusion of column and pie charts enhances the visualization, making it convenient to understand the differences between budget and actual figures. This project showcases a valuable skill in variance analysis and dynamic data visualization, applicable not only for personal finance but also for internal budgeting within companies. 
+
+## Dashboard
+![image](https://github.com/reyyeezy/budget_vs_actuals_variance_analysis/assets/40923068/30306369-00b5-4a44-8943-744fb109eb57)
